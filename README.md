@@ -54,7 +54,7 @@ database_description.json:
 			},
 			"install":[
 				{"id":1, "user":"hola", "password":"**.-..**"},
-				{"id":1, "user":"hola2", "password":"**.-..**"}
+				{"id":2, "user":"hola2", "password":"**.-..**"}
 			]
 		}
 	}
