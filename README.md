@@ -12,6 +12,7 @@ Use only json to configure
 Example file
 ============
 database_description.json:
+```json
 {
 	"fileConfig":"../config.php",
 	"configFields":{
@@ -58,3 +59,4 @@ database_description.json:
 		}
 	}
 }
+```
